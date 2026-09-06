@@ -1,2 +1,2 @@
 # generador-cronogramas
-Generador de cronogramas para desarrollo de programas de formación virtual en SENA
+Generación automática de cronogramas para el desarrollo de programas de formación virtual en SENA a partir de la Planeación Pedagógica
